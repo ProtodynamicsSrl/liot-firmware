@@ -1,7 +1,7 @@
 {
   "model": "PRDYELE0029",
-  "version": "0.0.3",
-  "binary": "https://raw.githubusercontent.com/ProtodynamicsSrl/liot-firmware/main/PRDYELE0029/0.0.3/PRDYELE0029_LIOT_0.0.3.bin",
-  "size": 1570752,
-  "sha256": "275d77a2c3ec4d369e047494b839408ac7794948b34ac12234fffad9a74e5e61"
+  "version": "0.0.4",
+  "binary": "https://raw.githubusercontent.com/ProtodynamicsSrl/liot-firmware/main/PRDYELE0029/0.0.4/PRDYELE0029_LIOT_0.0.4.bin",
+  "size": 1570464,
+  "sha256": "dceba6b2a69f76c7c1e458070768349597154c5b6620115fb843f077b41e605b"
 }

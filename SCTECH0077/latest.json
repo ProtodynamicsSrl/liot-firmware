@@ -1,7 +1,7 @@
 {
   "model": "SCTECH0077",
-  "version": "0.0.74",
-  "binary": "https://raw.githubusercontent.com/ProtodynamicsSrl/liot-firmware/main/SCTECH0077/0.0.74/SCTECH0077_LIOT_0.0.74.bin",
-  "size": 1638304,
-  "sha256": "8edfe2af7b916b13260decd05ae9a49d8189c4b7c7441de5004e4a99bfeff7d9"
+  "version": "0.0.75",
+  "binary": "https://raw.githubusercontent.com/ProtodynamicsSrl/liot-firmware/main/SCTECH0077/0.0.75/SCTECH0077_LIOT_0.0.75.bin",
+  "size": 1637312,
+  "sha256": "f11491127a06a401784236fe700cc85463ebbdab0c625cdd81a68f305b750130"
 }
